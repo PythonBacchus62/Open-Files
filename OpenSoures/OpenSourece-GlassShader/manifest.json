@@ -1,0 +1,41 @@
+{
+
+   "format_version": 1,
+
+   "header": {
+
+      "description": "§bOpenSource§f-§aGlass§f-§aShaders",
+
+      "name": "§bGlass§f-§bShaders",
+
+      "uuid": "b3f96449-5565-40fa-a32f-80e44a1271a0",
+      "version": [1, 8, 0]
+,
+      "min_engine_version": [1, 1, 1]
+   },
+
+   "modules": [
+
+      {
+         "description": "§bOpenSource§f-§aGlass§f-§aShaders",
+
+            "type": "resources",
+
+            "uuid": "6151f7e9-3bf5-4275-ba5a-8587c98453a9",
+
+            "version": [1, 8, 0]
+      }
+   ],
+   "subpacks": [
+   {
+     "folder_name": "Glass-Shaders",
+     "name": "Glass-Shaders",
+     "memory_tier": 1
+      },
+   {
+     "folder_name": "Default",
+     "name": "Default",
+     "memory_tier": 2
+      }
+   ]
+}
